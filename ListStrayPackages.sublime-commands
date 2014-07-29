@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "List Stray Packages",
+        "command": "list_stray_packages"
+    }
+]
